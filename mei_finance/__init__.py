@@ -1,0 +1,1 @@
+"""Aplicativo didatico de controle financeiro para MEI."""
